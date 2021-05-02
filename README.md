@@ -1,6 +1,6 @@
-# bootstrap-boilerplate
+# Mobile Friendly Final Project
 
-A boilerplate for Bootstrap Projects
+This is my final project for mobile friendly. It is a web dev portfolio website.
 
 ## Running On
 
@@ -11,8 +11,9 @@ This project is using:
 
 ### Theme
 
-Add your theme info here.
+No theme information at this time.
 
 ### Third Party Tools/Packages
 
 _Add your packages and tools here._
+_VSCode with Intellisense_
