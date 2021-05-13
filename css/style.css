@@ -5,6 +5,17 @@
   --primary-color: rgba(0,67,126,1);
   --social-hover: rgba(0, 217, 255, 1);
   /* --social-hover: #b57cff; */
+  --button-colors: #b57cff;
+}
+
+.btn {
+  color:var(--button-colors) !important;
+  border-color:var(--button-colors) !important;
+}
+
+.btn:hover {
+  background-color:var(--button-colors) !important;
+  color:white !important;
 }
 
 h1 {
