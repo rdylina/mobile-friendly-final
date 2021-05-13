@@ -3,7 +3,8 @@
 
 :root {
   --primary-color: rgba(0,67,126,1);
-  --social-hover: rgba(0, 217, 255, 0.986);
+  --social-hover: rgba(0, 217, 255, 1);
+  /* --social-hover: #b57cff; */
 }
 
 h1 {
@@ -78,7 +79,11 @@ p {
 footer {
   height: 250px;
   background: rgb(0,67,126) ;
-  background: linear-gradient(169deg, rgba(0,67,126,1) 0%, rgba(0,212,255,1) 100%); 
+  background: linear-gradient(169deg, rgba(0,67,126,1) 50%, rgba(0,212,255,1) 100%); 
+}
+
+footer p {
+  font-size:24px;
 }
 
 
