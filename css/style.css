@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Lato&family=Roboto:wght@300&display=swap');
+
+:root {
+  --primary-color: rgba(0,67,126,1);
+}
+
+h1 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+/* .navbar {
+  background-color: rgb(89, 183, 247) !important;
+} */
+
+.hero {
+  background: rgb(0,67,126) ;
+  background: linear-gradient(169deg, rgba(0,67,126,1) 0%, rgba(0,212,255,1) 100%); 
+  min-height:100%;
+}
+
+.hero h1 {
+  text-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+.section-one{
+  height:800px;
+  background: rgb(0,67,126) ;
+  background: linear-gradient(169deg, rgba(0,67,126,1) 0%, rgba(0,212,255,1) 100%); 
+}
