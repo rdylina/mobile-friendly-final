@@ -40,6 +40,10 @@ p {
   background: linear-gradient(169deg, rgba(0,67,126,1) 0%, rgba(0,212,255,1) 100%); 
 }
 
+#qualifications img {
+  height:50px;
+}
+
 #website1 {
   background:white;
   background: url(../img/robertdylina-img.jpg) no-repeat left center;
@@ -71,7 +75,7 @@ p {
 }
 
 footer {
-  height: 150px;
+  height: 250px;
   background: rgb(0,67,126) ;
   background: linear-gradient(169deg, rgba(0,67,126,1) 0%, rgba(0,212,255,1) 100%); 
 }
